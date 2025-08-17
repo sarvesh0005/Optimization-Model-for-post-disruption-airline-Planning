@@ -6,14 +6,5 @@ This notebook walks through the optimization problem of deciding which flights t
 
 This modeling tutorial is at the introductory level, where we assume that you know Python and that you have a background on a discipline that uses quantitative methods.
 
-You may find it helpful to refer to the documentation of the [Gurobi Python API](https://www.gurobi.com/documentation/current/refman/py_python_api_overview.html).
 
-## View the notebook
-
-[Google Colab Link](https://colab.research.google.com/github/Gurobi/modeling-examples/blob/master/aviation_planning/airlineplanning.ipynb)
-
-
-----
-For details on licensing or on running the notebooks, see the overview on [Modeling Examples](../)
-
-© Gurobi Optimization, LLC
+Need a license for gurobi to run this notebook
